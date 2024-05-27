@@ -46,7 +46,7 @@ const xcruzhd2 = {
             js: ["Node", "Express"],
         },
         
-        // devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Socket.IO", "selenium"]
     },
